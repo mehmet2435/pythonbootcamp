@@ -1,0 +1,2 @@
+# pythonbootcamp
+python öğreniyorum
